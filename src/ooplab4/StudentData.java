@@ -23,7 +23,7 @@ public class StudentData {
                 "Major and Faculty: "+stdfac+
                 "Address:"+stdaddress+
                 "Email:"+stdemail);
-    }//main
+    }///main
 
     private static String getStdEmail() throws IOException {
         System.out.print("Enter your id: ");
