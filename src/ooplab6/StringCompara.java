@@ -31,4 +31,4 @@ public class StringCompara {
 
 
     }//main
-}//ciass
+}//class
