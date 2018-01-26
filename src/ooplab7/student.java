@@ -13,6 +13,8 @@ package ooplab7;
 
 public class student {
    //properties of student classs
+    public static int age;
+    public String group;
     private String id;
     private String name;
     private String pid;

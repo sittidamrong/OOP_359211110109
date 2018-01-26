@@ -23,7 +23,20 @@ public class studentapp {
 
 
         student s3 = new student();
-        s3 = inputdata (s3);
+         // s3 = inputdata (s3);
+        // System.out.println(s3.toString());
+
+        System.out.println(s2.getId());
+        s2.setId("004");
+        System.out.println(s2.getId());
+        s2.group = " is223";
+        System.out.println(s2.group);
+        System.out.println(student.age);
+        student.age = 20;
+        s2.age = 30;
+        System.out.println(student.age);
+        System.out.println(s2.age);
+
 
 
     }//main
