@@ -1,9 +1,8 @@
 package ooplab8;
-//dog is a Pen
-//dog is sub-class
-//dog is super-class
-
-public class dog extends Pet {
+//Dog is a Ped
+//Dog is Sub-class
+//Pet is Super-class
+public class dog extends Pet{
     public dog(String name, int age) {
         super(name, age);
     }
@@ -14,4 +13,4 @@ public class dog extends Pet {
     }
 
 
-}
+}//class
