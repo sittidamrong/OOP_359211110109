@@ -12,6 +12,5 @@ public class personapp {
         System.out.println(student.getName());
         System.out.println(student.toString());
 
-
     }
 }//class
