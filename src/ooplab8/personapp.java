@@ -2,7 +2,7 @@ package ooplab8;
 
 public class personapp {
     public static void main(String[] args) {
-        //
+        //create object as studont
         Student student = new Student("1111111111111",
                 "Boy saiyai","109 M.2 Thungsong",
                 "Male","STD0001","Information System");
