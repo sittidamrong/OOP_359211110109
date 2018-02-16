@@ -8,6 +8,5 @@ public class myCar {
         System.out.println(car.toString());
 
 
-
     }//main
 }//class
